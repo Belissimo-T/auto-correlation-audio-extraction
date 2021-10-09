@@ -15,7 +15,7 @@ In this **very** ideal situation, this is the input:
 https://user-images.githubusercontent.com/37810842/136675428-e89afdd3-95d8-4dcc-89a4-cd85a23fc68a.mp4
 
 I overlayed a section of the song Jealous Girl by Lana Del Rey with Lorem Ipsum read by a tts.
-Notice how the section of the song repeats 9 times but the spoken text doesn't.
+Notice how the section of the song repeats 8 times but the spoken text doesn't.
 
 This is the plotted correlation data:
 ![image](https://user-images.githubusercontent.com/37810842/136675517-41dc2afd-4f0e-4d58-8981-c46390426329.png)
