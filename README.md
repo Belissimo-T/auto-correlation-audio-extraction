@@ -7,6 +7,8 @@ extract repeating audio that is overlayed with a noise
 You can view all options with \
 `python auto_correlation_audio_extraction.py -h`
  
+All audio files need to be inputted as a **.wav**-file
+ 
 # Example
 In this **very** ideal situation, this is the input:
 
@@ -24,3 +26,5 @@ This is the output
 https://user-images.githubusercontent.com/37810842/136675439-276888cd-0594-431c-bc8b-6c953cf62239.mp4
 
 You can hear that the noise is quiter relative to the song section.
+
+I had to convert the .wav-files to .mp4-files because thats the only format supported by github.
