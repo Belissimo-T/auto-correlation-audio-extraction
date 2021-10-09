@@ -7,7 +7,7 @@ extract repeating audio that is overlayed with a noise
 You can view all options with \
 `python auto_correlation_audio_extraction.py -h`
  
-All audio files need to be inputted as a **mono** **.wav**-file. If you input a stereo file the program will bug and interpret the second channel as extra samplewith causing the input to be janked and the output to be half the speed (and pitch).
+All audio files need to be inputted as a **mono** **.wav**-file. If you input a stereo file, the program will bug and interpret the second channel as extra samplewith causing the input to be janked and the output to be half the speed (and pitch).
  
 # Example
 In this **very** ideal situation, this is the input:
