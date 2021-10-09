@@ -285,9 +285,9 @@ def main():
                         help="Specifies the length (in nr of samples) of the sample "
                              "with which the full data is auto correlated with in. Default is 200_000. more = slower")
     parser.add_argument("-correlation-data-interval", "-cdi",
-                        type=str, default="20:-200",
+                        type=str, default="20:-2000",
                         help="Specifies the interval of the correlation_data that is regarded "
-                             "in the form start_sample:end_sample. Default is 20:-200.")
+                             "in the form start_sample:end_sample. Default is 20:-2000.")
     parser.add_argument("-correlation-threshold", "-cth",
                         type=int,
                         help="Specifies the threshold at which a correlation spike is interpreted as a repeat. "
