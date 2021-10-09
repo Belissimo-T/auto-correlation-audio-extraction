@@ -1,0 +1,6 @@
+wave
+# optional
+matplotlib
+numba
+# and cuda for gpu acceleration
+numpy
