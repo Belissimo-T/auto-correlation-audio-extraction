@@ -25,6 +25,6 @@ This is the output
 
 https://user-images.githubusercontent.com/37810842/136675439-276888cd-0594-431c-bc8b-6c953cf62239.mp4
 
-You can hear that the noise is quiter relative to the song section.
+You can hear that the noise is quieter relative to the song section.
 
 I had to convert the .wav-files to .mp4-files because thats the only format supported by github.
