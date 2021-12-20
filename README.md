@@ -21,7 +21,7 @@ This is the plotted correlation data:
 ![image](https://user-images.githubusercontent.com/37810842/136675517-41dc2afd-4f0e-4d58-8981-c46390426329.png)
 You can see the spikes showing a repeat.
 
-This is the output
+This is the output:
 
 https://user-images.githubusercontent.com/37810842/136675439-276888cd-0594-431c-bc8b-6c953cf62239.mp4
 
